@@ -1,0 +1,209 @@
+First 5 classes will be theoretical
+
+In the first class, program? programming language? scripting language?
+Why python has to be used?
+Identifers. how to install python,
+how to execute program, variables and data types
+
+program? A set of instructions providing to CPU to perform a particular task?
+Who developed this application, they are giving instructions to CPU in that format.
+print,
+println,
+sys.out.println
+
+CPU understand only binary language(101000001)(10000112)
+There is one French person and one telugu.
+I will introduce a new person who knows French and Telugu. 
+
+CPU can understand only binary language. Humans can't understand binary language
+compiler and interpreter.
+
+
+programming language: The language which uses compiler to convert high level(english type language) to level languages(binary language) are called programming languages
+scripting language: which uses interpreter to convert and execute the program are scripting languages  
+
+
+I am developing an application like an VLC player(not open source). I am selling it to other persons to use it.
+
+Can I provide source code to customer? I had a bug with file menu.
+customer is an programming expert? then he go through the code, solve the bug and he will add an some extra feature then he will release new product into market as your player
+
+we will compile and then we will object code to customer
+
+
+Indian will be exactly 10 digits( to check whether has he entered mobile or not, we can verify the length of mobile )
+
+Facebooks servers are in Japan and US.
+When I click on submit/login, it will take request to server, and will give back the response
+
+Now my mobile number is empty(8 digits)
+
+Javasript will run at browser
+
+password ---> password validation will be at server 
+mobile length validation --> 
+
+Ubuntu os has been developed using C language 
+We have shell scripts to customize few function in linux OS
+
+why python? ----> features 
+portability/embeddable
+PI
+open source 
+Standard library
+easy to learn/develop/maintain
+Automatic memory management
+
+open source ---> free to use ---> source code is openly available 
+python source code ---- I will add extra features ----> mylan
+I will develop an application using python and I will sell my application
+
+A customer came to my company, and asked to develop a website. He can afford 15000 for that.
+
+.net will be helpful for me to develop in a short period of time
+python/Java may some extra time compare .net 
+
+2 developers (each one salary is 1000 )
+.net I can develop with in a month--- salary(2000) and license(5000)
+python take 2 months ----> salary(4000) ----> profit(11000)
+
+
+
+
+I have started a startup company(funds with me will be very less)
+SBI net-banking
+3 developers are working here for this project(each one salary is 2 Lacs per months )
+1 developer has kept resignation with 3 months notice period.
+
+this position has to be replaced with new employee.
+
+For this 3 months they have to pay the 2 two employees(new and old) 12Lacs
+
+Let say new employee learn the things with in a month.
+
+
+easy to develop ---> developers can develop the things in short period of time. Which indicates project management will pay the salary for less period under that project. more profitable to company from that project 
+
+
+
+
+
+Standard library:
+     Why python is mostly used in ML/DP/AI, why not java
+	 
+	 I need to find the probability of Dice(I will use some formula)
+	 I need to develop the code for same formula 
+	 I already had a library(which take care of this formula). I won't waste for coding the formula. How to call a function in library to use that formula 
+
+
+
+embeddable: 
+    Is C more efficient or Java more efficient
+	Is C more secured or Java more secured
+    
+    C has 90% security features and Java has 95% secured
+	C has 89% efficieny and Java has 85% efficieny
+	I am banking application.
+
+Why coming 	to python, python can be integrated with most of the languages 
+C + python -----> cython 
+java + python ----> jython
+.net + python ----> ironpython
+
+Automatic memory management:
+    Python uses reference count mapping algorithm for garbage collector 
+	
+
+Identifiers/rules of identifiers
+
+Identifiers is nothing but the naming convention of python object. where python object can be variable/function/class or any name in the python.
+
+1. It/name should contain only alphabets, numbers and _
+2. It shouldn't start with numbers.
+3. It shouldn't contain only numbers 
+4. Length of name: length can be infinite, but it is always recommended to use valid names
+5. using predefined library names: str, int. we can use predefined library names but it is not recommended.
+6. we shouldn't use keywords(reserved words)
+
+In english language, rabbit. elephant. cat, dog, is, was,  etc.
+
+
+
+
+variables:
+  named memory location
+  reference of the memory location which holds some value 
+declarion of variables: 
+	we need some name for variable
+	we need some value like 100, 200, 300, "python" etc.
+	variable_name = value ---> declaration variable 
+	a = 100
+	b = 500
+	file_data = "dsjkfndjfskghjdfsgh"
+
+types of declaration of variables
+single values single variable 
+single value multiple variables 
+multiple values single variable 
+multiple values multiple variables
+
+a = 100
+b = 100
+
+
+in python, variables are implicit  varriables
+
+int a;
+int a = 10
+a = 10
+b = 20
+
+
+How to execute a python program 
+read values from console
+send values to console 
+data types 
+
+
+Script mode: First we will write all python related commands in a file and save it with extension .py  Finally pass this file as an argument to python interpreter
+
+
+interactive:first we will trigger the python interpreter and then execute the python commands. First exit the interpreter
+
+
+Datatype, variables and operators(will take us around weeks)
+Datatype ---> what type of data has been stored in memory and what are the various operations we can perform on that 
+python is dynamic typing programming language
+#while assigning the values, dynamically data type will be declared
+#Whenever requires, it will automatically converts data type without command/manual interference
+
+data types --> numbers, string, list, tuple, set, frozenset,dictionary, boolean
+numbers ---> integers, floats and complex
+
+integer ---> All positive and negative numbers comes under intergers 
+float numbers ---> All decimal point numbers comes under float 
+
+
+operators:
+arthematic operators: +, -, *, /, //, **, %
+relational operators: >, <, >=, <= ==, !=
+logical operators: and, or, not 
+assignment operators: =, +=, -=, *=, similarly with every arthematic operator.
+bitwise operators: &, |, ^, <<, >>  ----> not used till now in my career
+membership operators: in,   not in  ---> not supported by integers 
+identity operators: is,   is not 
+
+
+integer supports all this operators except membership operators 
+same applicable for float numbers
+# Any doubts
+ 
+
+
+
+ 
+
+
+
+
+
